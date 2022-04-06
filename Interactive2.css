@@ -1,0 +1,46 @@
+
+
+ body {
+    background-color: darkslategray;
+    background-color: #36454F; 
+    text-align: center;
+  
+ }	
+
+ .jumbotron {
+  background-color:cornflowerblue; 
+  background-color: dodgerblue;   
+                     
+ }
+
+h1 {
+  color: darkblue; 
+}
+
+h2 {
+  color: darkblue;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+color: darkblue;
+}
+
+h5 {
+  color: darkblue;
+  }
+
+p {
+  color: white;
+}
+
+hr  { 
+  color: navy;
+}
+
+footer {
+  color:navy;
+}
